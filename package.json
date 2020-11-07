@@ -1,0 +1,8 @@
+{
+  "name": "vuex-common-stores",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:christina-cortez/vuex-common-stores.git",
+  "author": "Christina Cortez",
+  "license": "MIT"
+}
